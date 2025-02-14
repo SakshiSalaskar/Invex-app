@@ -1,0 +1,29 @@
+# Ignore system and user directories
+.DS_Store
+Thumbs.db
+AppData/
+.anaconda/
+.conda/
+.continuum/
+.ipython/
+.jupyter/
+.matplotlib/
+.spyder-py3/
+.vscode/
+Downloads/
+Documents/
+Music/
+Videos/
+Favorites/
+OneDrive/
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VSCode and IDE-specific files
+.idea/
+*.iml
